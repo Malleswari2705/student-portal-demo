@@ -1,2 +1,2 @@
 # student-portal-demo
-basic idea for student portal application
+basic idea for a student portal application
